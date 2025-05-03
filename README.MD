@@ -4,7 +4,7 @@
 
 ## ✨ Estudiante  
 - **Nombre:** Michel Emmanuel San Martin 
-- **Comisión:** M2025-21 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Comisión:** M2025-21 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
